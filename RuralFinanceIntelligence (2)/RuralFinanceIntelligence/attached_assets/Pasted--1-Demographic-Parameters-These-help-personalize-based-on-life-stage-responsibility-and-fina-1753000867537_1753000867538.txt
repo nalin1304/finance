@@ -1,0 +1,144 @@
+🧑‍🌾 1. Demographic Parameters
+These help personalize based on life stage, responsibility, and financial capacity.
+
+Age
+
+Gender
+
+Marital status
+
+Number of dependents (kids/elderly)
+
+Education level
+
+Caste/Community (for eligibility in specific schemes, optional and sensitive)
+
+💰 2. Income and Employment Parameters
+Understand their financial inflow and stability.
+
+Monthly income (primary + secondary sources)
+
+Nature of income: fixed/variable/seasonal
+
+Occupation type: Farmer, laborer, small business owner, SHG member, etc.
+
+Daily wage or salaried?
+
+Government job / informal sector
+
+Secondary income (poultry, weaving, etc.)
+
+🏡 3. Assets and Liabilities
+A clear financial snapshot for risk analysis.
+
+Land ownership & size (if applicable)
+
+Livestock assets
+
+Gold/silver owned (common rural asset class)
+
+Owned vehicle (bike, tractor, etc.)
+
+Debt details: amount, source (bank/SHG/moneylender), interest rate
+
+Existing bank accounts or SHG memberships
+
+Past loans (repaid or ongoing)
+
+🏦 4. Banking and Financial Literacy
+This determines feasible products and delivery channels.
+
+Bank account type: Jan Dhan, Savings, Post Office, etc.
+
+Access to ATM/branch nearby
+
+Use of UPI/digital payments
+
+Access to smartphone/internet
+
+Awareness of government schemes? (Yes/No)
+
+Comfort with English/Hindi/Local language
+
+Ability to read SMS/notifications
+
+🎯 5. Financial Goals & Risk Appetite
+This helps define personalized investment or saving plans.
+
+Short-term goals (wedding, school fees, loan repayment)
+
+Long-term goals (house, daughter’s marriage, tractor, etc.)
+
+Time horizon for each goal
+
+Risk tolerance: Very Low, Low, Medium, High
+
+Preferred investment type: Savings, Gold, Land, Govt. schemes, etc.
+
+Previous investment behavior (if any)
+
+📅 6. Seasonal & Location Factors
+Useful for predicting income volatility or scheme availability.
+
+State & District
+
+Village/Taluka
+
+Crop pattern (if farmer)
+
+Seasonal income fluctuations
+
+Access to electricity and water
+
+Proximity to bank/post office (km)
+
+✅ 7. Government Scheme Eligibility (Auto-determined)
+You can infer this, but input helps.
+
+BPL card holder
+
+Aadhar linked bank account
+
+PM-Kisan beneficiary
+
+Pension scheme beneficiary
+
+Ration card type
+
+💬 Optional Behavioral Factors (Advanced AI personalisation)
+If you want to use Reinforcement Learning / Profiling, add:
+
+Monthly expense breakdown (approximate)
+
+Spending behavior (impulsive vs planned)
+
+Decision maker in the house (self/spouse/family head)
+
+Trust in digital platforms (low/medium/high)
+
+🧠 BONUS: How This Can Be Used
+Once you collect this data, you can use it to:
+
+Recommend:
+
+FDs, Recurring Deposits, SHG savings plans
+
+PM-SYM, Atal Pension Yojana, PMJJBY, PMFBY, etc.
+
+Suitable microloan or subsidy programs
+
+Build custom:
+
+Saving vs expense plans
+
+Goal timelines for long-term assets
+
+Debt restructuring advice
+
+Predict:
+
+Risk of default
+
+Ideal savings plan
+
+Likelihood of adopting tech-enabled solutions
